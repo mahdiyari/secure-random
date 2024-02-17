@@ -1,6 +1,6 @@
 {
   "name": "secure-random-hive-tx",
-  "version": "1.2.2",
+  "version": "1.4.0",
   "description": "Normalize the creation of cryptographically strong random values.",
   "main": "./lib/secure-random.js",
   "repository": {
